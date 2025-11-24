@@ -10,3 +10,4 @@ quantstat
 plotly
 nltk
 pynance
+scikit-learn
