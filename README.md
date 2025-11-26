@@ -85,3 +85,13 @@ Generated:
 - MACD & RSI visualizations
 
 - Portfolio summary report (portfolio_report.html)
+
+🎯 Task 3 – News Sentiment & Stock Correlation
+
+- Processed 100,000 news headlines with TextBlob sentiment analysis
+
+- Calculated daily stock returns for 6 tech stocks (AAPL, AMZN, GOOG, META, MSFT, NVDA)
+
+- Computed Pearson correlations between daily sentiment scores and stock returns
+
+- Key Findings: AAPL (r=0.32), AMZN (r=-0.43), GOOG/NVDA weak correlations
